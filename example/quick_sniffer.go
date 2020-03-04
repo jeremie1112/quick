@@ -12,7 +12,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/0x4d31/quick"
+	"github.com/0x4D31/quick"
 	"github.com/google/gopacket"
 	"github.com/google/gopacket/layers"
 	"github.com/google/gopacket/pcap"
